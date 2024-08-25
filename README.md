@@ -2,9 +2,9 @@
 
 This is my submission for the internship assignment given by Educase - [Link](https://forms.office.com/pages/responsepage.aspx?id=Nf87G5TqKE2JRrIiSJ10xoaKXKtohGpMiJCUYBuwggJUQjVSNERUWUVWSkVITVY0VEJJRTYwNENINC4u&route=shorturl)
 
-Live Link :[https://educase-4e57.onrender.com](https://educase-4e57.onrender.com)
+Live Link : [https://educase-4e57.onrender.com](https://educase-4e57.onrender.com)
 
-Postman Collections Link: [https://api.postman.com/collections/30689889-a54bd1a0-e592-4269-b89f-21a0aab7e923?access_key=PMAT-01J649GA9SA70QAX2EX99Y0SDY](https://api.postman.com/collections/30689889-a54bd1a0-e592-4269-b89f-21a0aab7e923?access_key=PMAT-01J649GA9SA70QAX2EX99Y0SDY)
+Postman Collections Link : [https://api.postman.com/collections/30689889-a54bd1a0-e592-4269-b89f-21a0aab7e923?access_key=PMAT-01J649GA9SA70QAX2EX99Y0SDY](https://api.postman.com/collections/30689889-a54bd1a0-e592-4269-b89f-21a0aab7e923?access_key=PMAT-01J649GA9SA70QAX2EX99Y0SDY)
 
 Done by - Mukundh P L
 
